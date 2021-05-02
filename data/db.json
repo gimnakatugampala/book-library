@@ -1,0 +1,11 @@
+{
+    "books":[
+        {"title":"Amara The Brave","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Matt Zhang","image":"./assets/amara-the-brave.webp"},
+        {"title":"The Book Of Chaos","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Jessica Renwick","image":"./assets/book-of-choas.jpg"},
+        {"title":"Killing","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Brian Meek","image":"./assets/killing.png"},
+        {"title":"The King of Drugs","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Nora Barrett","image":"./assets/king-of-drug.jpg"},
+        {"title":"Memory","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Arnold","image":"./assets/memory.jpg"},
+        {"title":"Million To One","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Tony Faggioli","image":"./assets/million-one.jpg"},
+        {"title":"The Gravity of Us","body":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam distinctio quibusdam adipisci corporis! Modi ","author":"Phill Stamper","image":"./assets/The Gravity of Us_.jpg"}
+    ]
+}
